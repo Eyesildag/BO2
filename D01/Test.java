@@ -8,7 +8,7 @@ package yesildag;
 public class Test {
 	
 	/**
-	 * Alle Methoden werden bis zum Wurf einer Exception ausgeführt.
+	 * Alle Methoden werden bis zum Wurf einer Exception ausgefï¿½hrt.
 	 * @since 1/9/2018
 	 */
 	public static void berechnealles() {
@@ -32,7 +32,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		berechnealles();
-
+		System.out.println("Hello World");
 	}
 
 }
